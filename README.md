@@ -80,7 +80,7 @@
   <section id="home">
     <h2>Welcome to My Lab Exercises</h2>
     <p>This website contains all the exercises submitted by Ashley Dhen Dela Cruz.</p>
-    <img src="among-us-picture-link.jpg" alt="Among Us Image" width="200" height="200">
+    <img src="images (4).jpeg" width="600" height="300">
 
   </section>
 
