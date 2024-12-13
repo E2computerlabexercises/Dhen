@@ -3,17 +3,17 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Macapagal, John Myko - Laboratory Exercises</title>
+  <title></title>
   <style>
     body {
       font-family: Arial, sans-serif;
-      background-image: url:
-      color: green;
+      background-image: url:"images (3).jpeg"
+      color: white;
       margin: 0;
       padding: 0;
     }
     header {
-      background-color: green;
+      background-color: white;
       color: white;
       text-align: center;
       padding: 1rem;
