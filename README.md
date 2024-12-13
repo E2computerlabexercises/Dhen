@@ -3,229 +3,186 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>LAB EXERCISES</title>
+  <title>Macapagal, John Myko - Laboratory Exercises</title>
   <style>
-    /* General Styling */
     body {
       font-family: Arial, sans-serif;
+      background-image: url:
+      color: green;
       margin: 0;
       padding: 0;
-      background-color: #f1c40f; /* Teen Titans Go! yellow theme */
-      color: #2c3e50;
     }
-
     header {
-      background-color: #2c3e50; /* Darker header background */
-      color: #f39c12; /* Teen Titans Go! accent color */
+      background-color: green;
+      color: white;
       text-align: center;
-      padding: 20px 0;
+      padding: 1rem;
     }
-
-    header h1, header h2 {
-      margin: 0;
-    }
-
     nav {
       text-align: center;
-      background-color: #34495e;
-      padding: 10px 0;
+      margin: 1rem 0;
     }
-
     nav a {
-      color: #f39c12;
+      margin: 0 1rem;
       text-decoration: none;
-      margin: 0 15px;
-      font-size: 1.2em;
+      color: green;
+      font-weight: bold;
     }
-
-    nav a:hover {
-      text-decoration: underline;
-    }
-
     section {
-      padding: 20px;
+      margin: 2rem;
     }
-
-    section h2 {
-      color: #f39c12;
+    iframe {
+      display: block;
+      margin: 1rem auto;
+      border: 2px solid green;
     }
-
-    footer {
-      text-align: center;
-      background-color: #2c3e50;
-      color: #f39c12;
-      padding: 10px 0;
-    }
-
     table {
       width: 100%;
       border-collapse: collapse;
-      margin: 20px 0;
+      margin: 1rem 0;
     }
-
     table, th, td {
-      border: 1px solid #333;
+      border: 1px solid green;
     }
-
     th, td {
-      padding: 10px;
+      padding: 8px;
       text-align: left;
     }
-
     form {
-      margin: 20px 0;
+      margin: 2rem 0;
     }
-
     form label {
       display: block;
-      margin: 10px 0 5px;
+      margin: 0.5rem 0;
     }
-
-    form input, form select, form button {
-      padding: 10px;
-      width: 100%;
-      max-width: 400px;
-    }
-
-    .blog-image {
-      width: 100%;
-      max-width: 600px;
-      margin-top: 20px;
+    .form-section {
+      margin-bottom: 2rem;
     }
   </style>
 </head>
 <body>
-  <!-- Header Section -->
   <header>
-    <h1>LAB EXERCISES</h1>
-    <p>SUBMITTED BY: [ASHLEY DHEN DELA CRUZ]</p>
+    <h1>Macapagal, John Myko</h1>
+    <h2>E2 - Computer</h2>
+    <audio controls>
+      <source src="/lost-in-dreams-abstract-chill-downtempo-cinematic-future-beats-270241.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
   </header>
-
-  <!-- Navigation -->
   <nav>
     <a href="#home">Home</a>
-    <a href="#plagiarism">Plagiarism</a>
     <a href="#blog">Blog</a>
-    <a href="#form">Forms</a>
+    <a href="#plagiarism">Plagiarism</a>
+    <a href="#forms">Forms</a>
   </nav>
 
-  <!-- Main Content -->
-  <main>
-    <!-- Home Section -->
-    <section id="home">
-      <h2>Welcome to Our Website</h2>
-      <p>THIS IS MY WEBPAGE WHERE YOU CAN FIND THE ARTICLE ABOUT PLAGIARISM AND A BLOG FOR YOUR ULTIMATE SECURITY</p>
-      
-      <!-- Embedded Audio -->
-      <audio controls>
-        <source src="https://youtu.be/yL75mtNZ6PA?feature=shared" type="audio/mp4">
-        Your browser does not support the audio element.
-      </audio>
-    </section>
+  <section id="home">
+    <h2>Welcome</h2>
+    <p>This webpage is the compilation of my laboratory exercises.</p>
+  </section>
 
-    <!-- Plagiarism Section -->
-    <section id="plagiarism">
-      <h2>Article: Plagiarism</h2>
-      <p>Plagiarism is the act of copying someone else's work without proper credit. It is a serious offense and can result in severe consequences globallyPlagiarism defined
-Plagiarism involves the act of using others’ work and trying to pass it off as your own original work. Plagiarism can include using someone else’s words or ideas in order to submit an assignment or complete a task and involves not properly documenting where the information was obtained. Essentially, plagiarism is stealing another person’s work or ideas. It can occur intentionally and unintentionally.
+  <section id="blog">
+    <h2>The Digital Trinity of Threats: Malware, Spam, and Viruses</h2>
+    <iframe width="560" height="315" 
+            src="https://www.youtube.com/embed/mqzP7gJDM2s" 
+            title="YouTube video player" 
+            frameborder="0" 
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+            allowfullscreen>
+    </iframe>
+    <p>Our digital lives are constantly under siege. Not by armies of trolls, but by a more insidious enemy: malware, spam, and viruses. Understanding these threats is the first step to protecting yourself.</p>
+    <h3>VIRUSES</h3>
+    <p>Think of viruses as the original digital bad guys. They're malicious programs that attach themselves to other files, replicating and spreading like, well, a virus. They can corrupt data, slow down your computer, or even crash your system entirely </p>
+    <h4>MALWARE</h4>
+    <p>This is the broader term encompassing viruses and much more.  Malware is any software designed to damage, disrupt, or gain unauthorized access to your computer.  This includes ransomware (which encrypts your files and demands payment), spyware (which secretly monitors your activity), and adware (which bombards you with unwanted ads).  Malware's reach is far-reaching and its methods constantly evolving.</p>
+    <h5>SPAM</h5>
+    <p>While not directly harmful to your system in the same way as malware or viruses, spam is still a significant threat.  These unwanted emails, often containing phishing scams or malware links, clog your inbox and can lead to identity theft or system compromise if you're not careful.  Think of spam as the annoying mosquito buzzing around the bigger digital dangers.</p>
+    <p>Your Antivirus Arsenal:  Luckily, you don't have to face this digital trinity alone.  Antivirus software is your first line of defense.  A good antivirus program will scan your files for viruses and malware, block suspicious websites, and filter spam emails.  But remember, antivirus software is just one piece of the puzzle.  Staying vigilant, practicing safe browsing habits, and regularly updating your software are equally crucial.</p>
+    
+  </section>
 
-When plagiarism occurs intentionally, the offender is aware that he or she will use an author’s work and reproduce it as an original work. As explained in the introduction, the student is up late and notices a paper on the Internet that is exactly what he or she needs. The student decides to download the paper from the Internet and submit it as his or her original work. Individuals who intentionally plagiarize will use words verbatim or paraphrased words of another person and document the work as their own.
-
-When plagiarism occurs unintentionally, the offender usually has some documentation in the work from the author that could be cited (documented with a citation) incorrectly. There is documentation of the original work present but a few errors. The source can be traced and there is no malicious intent to avoid citing the author’s work.
-
-For example, “Lee (2010) commented that adult learners can take preparatory steps to prepare for college.” The student might forget to place the information about the author on the reference page, or there might be no quotation marks if this was a direct quotation, or page or paragraph numbers (from a website). This could be considered unintentional plagiarism. Usually, the instructor will notate in the document what was missing and that is the extent of the issue in this case..</p>
-      <table>
+  <section id="plagiarism">
+    <h2>The Shadow of Plagiarism</h2>
+    <img src="/plagiarism.png/imgposter.png"
+    width="500px" height="300px">
+    <table>
+      <thead>
         <tr>
-          <th>Reported Case</th>
-          <th>Year</th>
-          <th>Outcome</th>
+          <th>Type</th>
+          <th>Description</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Direct Copying</td>
+          <td>Word-for-word reproduction of text without quotation marks and proper citation.</td>
         </tr>
         <tr>
-          <td>Joe Biden</td>
-          <td>1988</td>
-          <td>Withdrew from presidential race after copying a speech</td>
+          <td>Paraphrasing without Attribution</td>
+          <td>Restating someone else's ideas in your own words without acknowledging the original source.</td>
         </tr>
         <tr>
-          <td>Melania Trump</td>
-          <td>2016</td>
-          <td>Faced public criticism for plagiarizing a speech</td>
+          <td>Self-Plagiarism</td>
+          <td>Submitting the same work for multiple assignments without permission.</td>
         </tr>
         <tr>
-          <td>Fareed Zakaria</td>
-          <td>2012</td>
-          <td>Suspended from CNN and Time Magazine for plagiarism</td>
+          <td>Improper Citation</td>
+          <td>Failing to correctly cite sources, even if the work is paraphrased.</td>
         </tr>
         <tr>
-          <td>J.K. Rowling</td>
-          <td>2009</td>
-          <td>Lawsuit dismissed despite accusations of copying</td>
+          <td>Mosaic Plagiarism</td>
+          <td>Interweaving copied phrases with original text without proper attribution.</td>
         </tr>
-      </table>
-      <h3>Punishments by Country:</h3>
-      <ul>
-        <li>USA: Fines, lawsuits, degree revocation</li>
-        <li>UK: Academic expulsion, copyright lawsuits</li>
-        <li>India: Academic bans, fines, imprisonment under Copyright Act</li>
-        <li>Germany: Degree revocation, resignations</li>
-        <li>China: Job termination, publishing bans</li>
-      </ul>
-      
-      <!-- Embedded Video -->
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/GXq9MEzxd9k?si=Gw90O03jPEchdRU7" title="Plagiarism Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </section>
+      </tbody>
+    </table>
+    <p>Avoiding Plagiarism:
+The best way to avoid plagiarism is to develop good research and writing habits:
+- Properly cite all sources: Use a consistent citation style (MLA, APA, Chicago, etc.) and accurately attribute all borrowed ideas and information.
+- Paraphrase effectively: Understand the material thoroughly before attempting to restate it in your own words.
+- Use quotation marks for direct quotes: Always enclose direct quotations in quotation marks and provide a citation.
+- Develop your own arguments: Build upon the research you've conducted to form your own unique perspectives and analyses.
+- Use plagiarism detection software: Many universities offer access to tools that can help identify potential instances of plagiarism in your work.
+Plagiarism is a serious issue with significant consequences. By understanding what constitutes plagiarism and adopting responsible research and writing practices, you can maintain academic integrity and ensure the originality of your work.</p>
+    <p>Plagiarism undermines the principles of academic honesty. It deprives the original author of credit for their work...</p>
+  </section>
 
-    <!-- Blog Section -->
-    <section id="blog">
-      <h2>Blog: Viruses, Malware, Spam, and Antiviruses</h2>
-      
-      <!-- Embedded Image -->
-      <img src="https://www.csoonline.com/wp-content/uploads/2021/06/what-is-malware.jpg" alt="Malware Image" class="blog-image">
-      
-      <p>The digital world is filled with threats like viruses, malware, and spam that can compromise personal data and system integrity. Here's an overview:</p>
-      <ul>
-        <li><strong>Viruses:</strong> Malicious software that damages systems and steals data.</li>
-        <li><strong>Malware:</strong> Harmful programs like viruses, worms, and ransomware.</li>
-        <li><strong>Spam:</strong> Unsolicited emails that often spread malware or phishing links.</li>
-      </ul>
-      <p><strong>Antiviruses:</strong> Antivirus software is essential to detect and remove harmful programs from devices. Regular updates and caution while browsing can prevent infections.</p>
-    </section>
-
-    <!-- Forms Section -->
-    <section id="form">
-      <h2>Contact Us</h2>
-      <form>
+  <section id="forms">
+    <h2>Interactive Form</h2>
+    <form>
+      <div class="form-section">
         <label for="name">Name:</label>
-        <input type="text" id="name" name="name" required>
-
-        <label for="email">Email:</label>
-        <input type="email" id="email" name="email" required>
-
-        <label for="gender">Gender:</label>
-        <input type="radio" id="male" name="gender" value="male"> Male
-        <input type="radio" id="female" name="gender" value="female"> Female
-
-        <label for="hobbies">Favorite Colors:</label>
-        <input type="checkbox" id="reading" name="hobbies" value="reading"> Pink
-        <input type="checkbox" id="sports" name="hobbies" value="sports"> Blue
-
+        <input type="text" id="name" name="name" placeholder="Enter your name">
+      </div>
+      <div class="form-section">
+        <label for="gender">Does it helpful?</label>
+        <input type="radio" id="male" name="gender" value="male">
+        <label for="male">Yes</label>
+        <input type="radio" id="No" name="gender" value="female">
+        <label for="female">No</label>
+      </div>
+      <div class="form-section">
+        <label for="hobbies">Hobbies:</label>
+        <input type="checkbox" id="reading" name="hobbies" value="reading">
+        <label for="reading">Reading</label>
+        <input type="checkbox" id="traveling" name="hobbies" value="traveling">
+        <label for="traveling">Traveling</label>
+        <input type="checkbox" id="sports" name="hobbies" value="sports">
+        <label for="sports">Cooking</label>
+      </div>
+      <div class="form-section">
         <label for="password">Password:</label>
-        <input type="password" id="password" name="password" required>
-
+        <input type="password" id="password" name="password">
+      </div>
+      <div class="form-section">
         <label for="country">Country:</label>
         <select id="country" name="country">
-          <option value="usa">Philippines</option>
-          <option value="uk">China</option>
-          <option value="india">Japan</option>
+          <option value="philippines">Philippines</option>
+          <option value="usa">United States</option>
+          <option value="canada">India</option>
         </select>
-
-        <button type="submit">Submit</button>
-      </form>
-    </section>
-  </main>
-
-  <!-- Footer -->
-  <footer>
-    <p>&copy; 2-INDIA</p>
-  </footer>
+      </div>
+      <button type="submit">Submit</button>
+    </form>
+  </section>
 </body>
 </html>
