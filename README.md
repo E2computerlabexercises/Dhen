@@ -1,71 +1,71 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title></title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background-image: url:"images (3).jpeg"
-      color: white;
-      margin: 0;
-      padding: 0;
-    }
-    header {
-      background-color: white;
-      color: white;
-      text-align: center;
-      padding: 1rem;
-    }
-    nav {
-      text-align: center;
-      margin: 1rem 0;
-    }
-    nav a {
-      margin: 0 1rem;
-      text-decoration: none;
-      color: green;
-      font-weight: bold;
-    }
-    section {
-      margin: 2rem;
-    }
-    iframe {
-      display: block;
-      margin: 1rem auto;
-      border: 2px solid green;
-    }
-    table {
-      width: 100%;
-      border-collapse: collapse;
-      margin: 1rem 0;
-    }
-    table, th, td {
-      border: 1px solid green;
-    }
-    th, td {
-      padding: 8px;
-      text-align: left;
-    }
-    form {
-      margin: 2rem 0;
-    }
-    form label {
-      display: block;
-      margin: 0.5rem 0;
-    }
-    .form-section {
-      margin-bottom: 2rem;
-    }
-  </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LAB EXERCISES - ASHLEY DHEN DELA CRUZ</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: white;
+            color: maroon;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: maroon;
+            color: white;
+            text-align: center;
+            padding: 1rem;
+        }
+        nav {
+            text-align: center;
+            margin: 1rem 0;
+        }
+        nav a {
+            margin: 0 1rem;
+            text-decoration: none;
+            color: maroon;
+            font-weight: bold;
+        }
+        section {
+            margin: 2rem;
+        }
+        iframe {
+            display: block;
+            margin: 1rem auto;
+            border: 2px solid maroon;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1rem 0;
+        }
+        table, th, td {
+            border: 1px solid maroon;
+        }
+        th, td {
+            padding: 8px;
+            text-align: left;
+        }
+        form {
+            margin: 2rem 0;
+        }
+        form label {
+            display: block;
+            margin: 0.5rem 0;
+        }
+        .form-section {
+            margin-bottom: 2rem;
+        }
+    </style>
 </head>
 <body>
   <header>
-    <h1>Macapagal, John Myko</h1>
-    <h2>E2 - Computer</h2>
+    <h1>LAB EXERCISES</h1>
+    <h2>Submitted by: ASHLEY DHEN DELA CRUZ</h2>
     <audio controls>
-      <source src="/lost-in-dreams-abstract-chill-downtempo-cinematic-future-beats-270241.mp3" type="audio/mpeg">
+      <source src="your-audio-file-link.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
   </header>
@@ -76,35 +76,33 @@
     <a href="#forms">Forms</a>
   </nav>
 
+  <!-- Home Section -->
   <section id="home">
-    <h2>Welcome</h2>
-    <p>This webpage is the compilation of my laboratory exercises.</p>
+    <h2>Welcome to My Lab Exercises</h2>
+    <p>This website contains all the exercises submitted by Ashley Dhen Dela Cruz.</p>
+    <img src="among-us-picture-link.jpg" alt="Among Us Image" width="200" height="200">
+
   </section>
 
+  <!-- Blog Section -->
   <section id="blog">
     <h2>The Digital Trinity of Threats: Malware, Spam, and Viruses</h2>
-    <iframe width="560" height="315" 
-            src="https://www.youtube.com/embed/mqzP7gJDM2s" 
-            title="YouTube video player" 
-            frameborder="0" 
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-            allowfullscreen>
-    </iframe>
-    <p>Our digital lives are constantly under siege. Not by armies of trolls, but by a more insidious enemy: malware, spam, and viruses. Understanding these threats is the first step to protecting yourself.</p>
-    <h3>VIRUSES</h3>
-    <p>Think of viruses as the original digital bad guys. They're malicious programs that attach themselves to other files, replicating and spreading like, well, a virus. They can corrupt data, slow down your computer, or even crash your system entirely </p>
-    <h4>MALWARE</h4>
-    <p>This is the broader term encompassing viruses and much more.  Malware is any software designed to damage, disrupt, or gain unauthorized access to your computer.  This includes ransomware (which encrypts your files and demands payment), spyware (which secretly monitors your activity), and adware (which bombards you with unwanted ads).  Malware's reach is far-reaching and its methods constantly evolving.</p>
-    <h5>SPAM</h5>
-    <p>While not directly harmful to your system in the same way as malware or viruses, spam is still a significant threat.  These unwanted emails, often containing phishing scams or malware links, clog your inbox and can lead to identity theft or system compromise if you're not careful.  Think of spam as the annoying mosquito buzzing around the bigger digital dangers.</p>
-    <p>Your Antivirus Arsenal:  Luckily, you don't have to face this digital trinity alone.  Antivirus software is your first line of defense.  A good antivirus program will scan your files for viruses and malware, block suspicious websites, and filter spam emails.  But remember, antivirus software is just one piece of the puzzle.  Staying vigilant, practicing safe browsing habits, and regularly updating your software are equally crucial.</p>
-    
+    <p>Online activities are constantly at risk from three main threats: viruses, malware, and spam. Understanding these dangers is the first step in staying safe.</p>
+    <h3>Viruses</h3>
+    <p>Viruses are harmful programs that attach to files, spread, and can damage your data, slow down your system, or crash it entirely. They often spread through infected email attachments or files from untrusted sources.</p>
+    <h3>Malware</h3>
+    <p>Malware is any software designed to harm your computer. This includes ransomware (which demands payment to unlock your files), spyware (which tracks your activity), and adware (which displays unwanted ads). Malware is constantly evolving and poses a serious threat.</p>
+    <h3>Spam</h3>
+    <p>Spam consists of unwanted emails, often containing phishing scams or links to malware. Although it may not directly harm your system, it can lead to identity theft or other security issues.</p>
+    <h3>Protection</h3>
+    <p>Antivirus software is essential in defending against these threats. It helps by scanning for viruses, blocking harmful websites, and filtering spam. However, it’s also important to stay vigilant, practice safe browsing, and keep your software up to date.</p>
   </section>
 
+  <!-- Plagiarism Section -->
+  <!-- Video embedded from YouTube -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lm8R-_CALd4?si=4yAATO9z3CXQqOCD" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   <section id="plagiarism">
-    <h2>The Shadow of Plagiarism</h2>
-    <img src="/plagiarism.png/imgposter.png"
-    width="500px" height="300px">
+    <h2>What Constitutes Plagiarism?</h2>
     <table>
       <thead>
         <tr>
@@ -135,17 +133,13 @@
         </tr>
       </tbody>
     </table>
-    <p>Avoiding Plagiarism:
-The best way to avoid plagiarism is to develop good research and writing habits:
-- Properly cite all sources: Use a consistent citation style (MLA, APA, Chicago, etc.) and accurately attribute all borrowed ideas and information.
-- Paraphrase effectively: Understand the material thoroughly before attempting to restate it in your own words.
-- Use quotation marks for direct quotes: Always enclose direct quotations in quotation marks and provide a citation.
-- Develop your own arguments: Build upon the research you've conducted to form your own unique perspectives and analyses.
-- Use plagiarism detection software: Many universities offer access to tools that can help identify potential instances of plagiarism in your work.
-Plagiarism is a serious issue with significant consequences. By understanding what constitutes plagiarism and adopting responsible research and writing practices, you can maintain academic integrity and ensure the originality of your work.</p>
-    <p>Plagiarism undermines the principles of academic honesty. It deprives the original author of credit for their work...</p>
+    <h3>Why is Plagiarism Wrong?</h3>
+    <p>Plagiarism undermines the principles of academic honesty. It deprives the original author of credit for their work, misrepresents your own abilities, and erodes the trust within the academic community. It is essentially intellectual theft.</p>
+    <h3>Avoiding Plagiarism</h3>
+    <p>The best way to avoid plagiarism is to develop good research and writing habits, properly cite all sources, paraphrase effectively, use quotation marks for direct quotes, and develop your own arguments. Many universities offer plagiarism detection software to help prevent accidental plagiarism.</p>
   </section>
 
+  <!-- Forms Section -->
   <section id="forms">
     <h2>Interactive Form</h2>
     <form>
@@ -154,31 +148,31 @@ Plagiarism is a serious issue with significant consequences. By understanding wh
         <input type="text" id="name" name="name" placeholder="Enter your name">
       </div>
       <div class="form-section">
-        <label for="gender">Does it helpful?</label>
-        <input type="radio" id="male" name="gender" value="male">
-        <label for="male">Yes</label>
-        <input type="radio" id="No" name="gender" value="female">
-        <label for="female">No</label>
+        <label>Did you enjoy playing among us?</label>
+        <input type="radio" id="yes" name="feedback" value="yes">
+        <label for="yes">Yes</label>
+        <input type="radio" id="no" name="feedback" value="no">
+        <label for="no">No</label>
       </div>
       <div class="form-section">
-        <label for="hobbies">Hobbies:</label>
+        <label for="hobbies">Favorite Colors:</label>
         <input type="checkbox" id="reading" name="hobbies" value="reading">
-        <label for="reading">Reading</label>
+        <label for="reading">Pink</label>
         <input type="checkbox" id="traveling" name="hobbies" value="traveling">
-        <label for="traveling">Traveling</label>
+        <label for="traveling">Blue</label>
         <input type="checkbox" id="sports" name="hobbies" value="sports">
-        <label for="sports">Cooking</label>
+        <label for="sports">Red</label>
       </div>
       <div class="form-section">
         <label for="password">Password:</label>
         <input type="password" id="password" name="password">
       </div>
       <div class="form-section">
-        <label for="country">Country:</label>
+        <label for="country">Civil Status:</label>
         <select id="country" name="country">
-          <option value="philippines">Philippines</option>
-          <option value="usa">United States</option>
-          <option value="canada">India</option>
+          <option value="philippines">Single</option>
+          <option value="usa">Married</option>
+          <option value="india">Complicated</option>
         </select>
       </div>
       <button type="submit">Submit</button>
