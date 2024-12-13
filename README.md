@@ -36,18 +36,6 @@
             margin: 1rem auto;
             border: 2px solid maroon;
         }
-        table {
-            width: 100%;
-            border-collapse: collapse;
-            margin: 1rem 0;
-        }
-        table, th, td {
-            border: 1px solid maroon;
-        }
-        th, td {
-            padding: 8px;
-            text-align: left;
-        }
         form {
             margin: 2rem 0;
         }
@@ -64,10 +52,7 @@
   <header>
     <h1>LAB EXERCISES</h1>
     <h2>Submitted by: ASHLEY DHEN DELA CRUZ</h2>
-    <audio controls>
-      <source src="Dream_It_Possible.flac" type="audio/mpeg">
-      Your browser does not support the audio element.
-    </audio>
+
   </header>
   <nav>
     <a href="#home">Home</a>
@@ -81,7 +66,6 @@
     <h2>Welcome to My Lab Exercises</h2>
     <p>This website contains all the exercises submitted by Ashley Dhen Dela Cruz.</p>
     <img src="images (4).jpeg" width="600" height="300">
-
   </section>
 
   <!-- Blog Section -->
@@ -100,45 +84,25 @@
 
   <!-- Plagiarism Section -->
   <!-- Video embedded from YouTube -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lm8R-_CALd4?si=4yAATO9z3CXQqOCD" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/Lm8R-_CALd4?si=4yAATO9z3CXQqOCD" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   <section id="plagiarism">
     <h2>What Constitutes Plagiarism?</h2>
-    <table>
-      <thead>
-        <tr>
-          <th>Type</th>
-          <th>Description</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td>Direct Copying</td>
-          <td>Word-for-word reproduction of text without quotation marks and proper citation.</td>
-        </tr>
-        <tr>
-          <td>Paraphrasing without Attribution</td>
-          <td>Restating someone else's ideas in your own words without acknowledging the original source.</td>
-        </tr>
-        <tr>
-          <td>Self-Plagiarism</td>
-          <td>Submitting the same work for multiple assignments without permission.</td>
-        </tr>
-        <tr>
-          <td>Improper Citation</td>
-          <td>Failing to correctly cite sources, even if the work is paraphrased.</td>
-        </tr>
-        <tr>
-          <td>Mosaic Plagiarism</td>
-          <td>Interweaving copied phrases with original text without proper attribution.</td>
-        </tr>
-      </tbody>
-    </table>
-    <h3>Why is Plagiarism Wrong?</h3>
+    <ol>
+      <li><strong>Direct Copying:</strong> Word-for-word reproduction of text without quotation marks and proper citation.</li>
+      <li><strong>Paraphrasing without Attribution:</strong> Restating someone else's ideas in your own words without acknowledging the original source.</li>
+      <li><strong>Self-Plagiarism:</strong> Submitting the same work for multiple assignments without permission.</li>
+      <li><strong>Improper Citation:</strong> Failing to correctly cite sources, even if the work is paraphrased.</li>
+      <li><strong>Mosaic Plagiarism:</strong> Interweaving copied phrases with original text without proper attribution.</li>
+    </ol>
+    <h3></h3>
     <p>Plagiarism undermines the principles of academic honesty. It deprives the original author of credit for their work, misrepresents your own abilities, and erodes the trust within the academic community. It is essentially intellectual theft.</p>
-    <h3>Avoiding Plagiarism</h3>
+    <h3></h3>
     <p>The best way to avoid plagiarism is to develop good research and writing habits, properly cite all sources, paraphrase effectively, use quotation marks for direct quotes, and develop your own arguments. Many universities offer plagiarism detection software to help prevent accidental plagiarism.</p>
   </section>
-
+    <audio controls>
+      <source src="Dream_It_Possible.flac" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
   <!-- Forms Section -->
   <section id="forms">
     <h2>Interactive Form</h2>
